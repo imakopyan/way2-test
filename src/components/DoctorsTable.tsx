@@ -79,7 +79,7 @@ const DoctorsTable: React.FC = () => {
           <TableHead>
             <TableRow>
               <TableCell>ФИО</TableCell>
-              <TableCell>Специальность</TableCell>
+              <TableCell>Отделение</TableCell>
               <TableCell>Заведующий</TableCell>
               <TableCell></TableCell>
             </TableRow>

@@ -1,0 +1,5 @@
+[
+    { "id": "1", "name": "Сидорова Мария Ивановна", "department": "cardiology" },
+    { "id": "2", "name": "Кузнецова Людмила Юрьевна", "department": "surgery" },
+    { "id": "3", "name": "Петрова Наталья Владимировна", "department": "surgery" }
+  ]

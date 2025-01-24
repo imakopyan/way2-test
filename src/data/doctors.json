@@ -1,0 +1,6 @@
+[
+    { "id": "1", "name": "Иванов Иван Иванович", "department": "cardiology", "isHead": true },
+    { "id": "2", "name": "Олегов Олег Олегович", "department": "cardiology", "isHead": false },
+    { "id": "3", "name": "Петров Петр Петрович", "department": "surgery", "isHead": false },
+    { "id": "4", "name": "Сергеев Сергей Сергеевич", "department": "surgery", "isHead": false }
+  ]
